@@ -1,5 +1,8 @@
 # Build Mobile Application MockUps in AdobeXD
 Deep Dive into Adobe XD | Build and Prototype a Mobile Application MockUp (<Link-to-course>)
+ 
+![recipe](https://user-images.githubusercontent.com/78716992/107196896-38868a00-6a19-11eb-8ce3-7bdeda677aef.gif)
+
 
 Welcome to this BEGINNER level course on SkillShare!
 
